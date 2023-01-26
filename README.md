@@ -1,2 +1,3 @@
 # HolaMundo
-aprendiendo a usar Git
+aprendiendo a usar Git\
+Probando el funcionamiento 
